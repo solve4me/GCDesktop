@@ -1,1 +1,1 @@
-# GCEDesktop
+# GC Enhanced Desktop
